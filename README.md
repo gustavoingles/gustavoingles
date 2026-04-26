@@ -124,7 +124,7 @@
 |---|---------|--------|
 | 🏯 | **Palace 01** — [**grc**](https://github.com/mspabr/grc) &nbsp;*— Stealing the heart of insecure data* | `[ IN PROGRESS ]` |
 | 🏯 | **Palace 02** — [**Full-Stack Tutorial**](https://www.youtube.com/watch?v=Ua__7-x6MWs) &nbsp;*— Mastering the Metaverse's full stack* | `[ IN PROGRESS ]` |
-| 🏯 | **Palace 03** — **GitHub Dash** &nbsp;*— Forging a new weapon powered with GitHub Actions Workflow integration* | `[ PLANNING ]` |
+| 🏯 | **Palace 03** — **GitHub Dash** &nbsp;*— Forging a new weapon powered with GH Actions integration* | `[ PLANNING ]` |
 
 ---
 
