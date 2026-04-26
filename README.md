@@ -122,9 +122,9 @@
 
 | ▸ | Mission | Status |
 |---|---------|--------|
-| 🏯 | **Palace 01** — [**grc**](https://github.com/mspabr/grc) &nbsp;*— Stealing the heart of insecure data* | `[ IN PROGRESS ]` |
+| 🏯 | **Palace 01** — [**mspabr**](https://github.com/mspabr) &nbsp;*— Stealing the heart of insecure data* | `[ IN PROGRESS ]` |
 | 🏯 | **Palace 02** — [**Full-Stack Tutorial**](https://www.youtube.com/watch?v=Ua__7-x6MWs) &nbsp;*— Mastering the Metaverse's full stack* | `[ IN PROGRESS ]` |
-| 🏯 | **Palace 03** — **GitHub Dash** &nbsp;*— Forging a new weapon powered with GH Actions integration* | `[ PLANNING ]` |
+| 🏯 | **Palace 03** — **GitHub Dash** &nbsp;*— Forging a new weapon with GitHub Actions* | `[ PLANNING ]` |
 
 ---
 
@@ -134,7 +134,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavoingles&show_icons=true&theme=transparent&title_color=CC0000&text_color=ffffff&icon_color=CC0000&border_color=CC0000&bg_color=00000000&hide_border=false&count_private=true" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoingles&layout=compact&theme=transparent&title_color=CC0000&text_color=ffffff&border_color=CC0000&bg_color=00000000&langs_count=8&include_orgs=mspabr" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoingles&layout=compact&theme=transparent&title_color=CC0000&text_color=ffffff&border_color=CC0000&bg_color=00000000&langs_count=8&include_orgs=true" />
 
 </div>
 
